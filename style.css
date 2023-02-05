@@ -140,8 +140,9 @@ button:hover{
     color: hsl(0, 100%, 74%);
     font-size: 12px;
     font-style: italic;
-    margin-left: 65%;
+    margin-left: 55%;
     margin-bottom: 20px;
+    text-align: right;
     
 }
 
